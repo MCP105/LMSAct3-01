@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LMSAct 3-01</string>
+    <string name="page_title">Academic Program</string>
+    <string name="hint1">"Last Name"</string>
+    <string name="hint2">"First Name"</string>
+    <string name="hint3">"Middle Name"</string>
+    <string name="gender_option1">"Male"</string>
+    <string name="gender_option2">"Female"</string>
+    <string name="gender_title">"Gender"</string>
+    <string name="requirements_title">"Requirements"</string>
+    <string name="requirement1">"Original Report Card (Form 138)"</string>
+    <string name="requirement2">"NSO copy of Birth Certificate"</string>
+    <string name="requirement3">"Certificate of Good Moral Character"</string>
+    <string name="requirement4">"Certification of Junior High School Completion"</string>
+    <string name="button_text">SUBMIT</string>
+    <string name="NULL">""</string>
+</resources>
